@@ -1,3 +1,6 @@
 [submodule "hello_rust"]
 	path = hello_rust
 	url = https://github.com/0xKai27/hello_rust/
+[submodule "guessing_game"]
+	path = guessing_game
+	url = https://github.com/0xKai27/guessing_game
