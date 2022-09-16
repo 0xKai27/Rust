@@ -1,0 +1,3 @@
+[submodule "hello_rust"]
+	path = hello_rust
+	url = https://github.com/0xKai27/hello_rust/
